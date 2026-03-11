@@ -3,7 +3,7 @@
     "path": "C:/Users/shado/OneDrive/Desktop/MidProj/MidProj.qmd",
     "project_path": "MidProj.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "4167038095",
     "contents": "",
     "dirty": false,
     "created": 1773252491973.0,
@@ -16,14 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "26:0"
+        "rmdVisualModeLocation": "26:0",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1773252485,
+    "lastKnownWriteTime": 1773252780,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1773252485,
+    "last_content_update": 1773252780773,
     "read_only": false,
     "read_only_alternatives": []
 }
